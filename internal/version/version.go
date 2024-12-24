@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/manifoldco/promptui"
-	"github.com/yourusername/kubeversion/internal/download"
+	"github.com/vamshisiddarth/kubeversion/internal/download"
 )
 
 type Release struct {
