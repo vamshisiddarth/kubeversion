@@ -1,4 +1,4 @@
-module github.com/yourusername/kubeversion
+module github.com/vamshisiddarth/kubeversion
 
 go 1.21
 
