@@ -22,7 +22,7 @@ A simple version manager for kubectl that allows you to switch between different
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/kubeversion.git
+git clone https://github.com/vamshisiddarth/kubeversion.git
 cd kubeversion
 ```
 
